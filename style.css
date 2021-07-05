@@ -55,3 +55,17 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image:linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#web-full{
+    border-left: 7px solid;
+    border-image:linear-gradient(rgb(230, 59, 93), rgb(250, 182, 55));
+    border-image-slice: 1;
+}
+footer p {
+    text-align: center;
+    color: darkgray;
+}
